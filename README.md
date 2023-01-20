@@ -1,1 +1,1 @@
-# firebase-phone-number-auth-js
+# Firebase Phone Number Authentication JavaScript
